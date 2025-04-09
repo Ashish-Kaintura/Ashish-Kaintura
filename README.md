@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **Html, React.js, CSS, JS, Node.js, MongoDB, MySql, etc**
 
-- 📫 How to reach me **ashishkaintura@gmail.com**
+- 📫 How to reach me **ashishkaintura305@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
