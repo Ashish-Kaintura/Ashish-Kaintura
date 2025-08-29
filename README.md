@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Next.js React Native**
 
-- 💬 Ask me about **Html, React.js, CSS, JS, Node.js, MongoDB, MySql, etc**
+- 💬 Ask me about **Html, React.js, CSS, JS, Node.js, Tailwindcss, MongoDB, MySql, etc**
 
 - 📫 How to reach me **ashishkaintura305@gmail.com**
 
